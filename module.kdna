@@ -4,22 +4,22 @@
   "version": "0.0.1",
   "contents": [
     {
-      "semantic_type": "electronic/board",
+      "semantic_type": "electrical/board",
       "extension": ".brd",
       "path": ""
     },
     {
-      "semantic_type": "electronic/bom",
+      "semantic_type": "electrical/bom",
       "extension": ".csv",
       "path": ""
     },
     {
-      "semantic_type": "electronic/schematic",
+      "semantic_type": "electrical/schematic",
       "extension": ".sch",
       "path": ""
     },
     {
-      "semantic_type": "electonic/firmware",
+      "semantic_type": "electrical/firmware",
       "path": "github.com/kambria-platform/tb-light-firmware"
     }
   ]
