@@ -1,0 +1,11 @@
+*.pro
+*.cmp
+*.drd
+*.dri
+*.gpi
+*.plc
+*.sol
+*.stc
+*.sts
+*.b#*
+*.s#*
