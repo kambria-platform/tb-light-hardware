@@ -2,24 +2,25 @@
   "name": "tb-light-hardware",
   "description": "LED strip controller",
   "version": "0.0.1",
+  "semantic_type": "electrical",
   "contents": [
     {
       "semantic_type": "electrical/board",
       "extension": ".brd",
-      "path": ""
+      "path": "."
     },
     {
       "semantic_type": "electrical/bom",
       "extension": ".csv",
-      "path": ""
+      "path": "."
     },
     {
       "semantic_type": "electrical/schematic",
       "extension": ".sch",
-      "path": ""
+      "path": "."
     },
     {
-      "semantic_type": "electrical/firmware",
+      "semantic_type": "firmware",
       "path": "github.com/kambria-platform/tb-light-firmware"
     }
   ]
