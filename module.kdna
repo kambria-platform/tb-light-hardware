@@ -7,17 +7,17 @@
     {
       "semantic_type": "electrical/board",
       "extension": ".brd",
-      "path": "."
+      "path": "boards"
     },
     {
       "semantic_type": "electrical/bom",
       "extension": ".csv",
-      "path": "."
+      "path": "bom"
     },
     {
       "semantic_type": "electrical/schematic",
       "extension": ".sch",
-      "path": "."
+      "path": "schematics"
     },
     {
       "semantic_type": "firmware",
