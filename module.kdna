@@ -21,7 +21,7 @@
     },
     {
       "semantic_type": "firmware",
-      "path": "github.com/kambria-platform/tb-light-firmware"
+      "path": "https://github.com/kambria-platform/tb-light-firmware"
     }
   ]
 }
