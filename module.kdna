@@ -13,7 +13,7 @@
       "semantic_type": "electrical/bom",
       "extension": ".csv",
       "path": "bom",
-      "display_fields": "QTY,MPN$URL,Schematic Reference,Internal Part Number,Description" 
+      "display_fields": "QTY,MPN,URL#MPN,Schematic Reference,Internal Part Number,Description" 
     },
     {
       "semantic_type": "electrical/schematic",
