@@ -1,7 +1,7 @@
 Qty,Manufacturer,MPN,URL,Schematic Reference,Internal Part Number,Description
 3,JST,B4B-PH-K-S(LF)(SN),https://octopart.com/b4b-ph-k-s%28lf%29%28sn%29-jst-248870,JST-PH4,PLED1 PLED2 PLED3,
-1,Ward,D.NP,https://octopart.com/d.np-ward-73362764,PINHD-1X4,JP2,
-1,,,,PINHD-1X5,JP1,
+1,,,https://octopart.com/d.np-ward-73362764,PINHD-1X4,JP2,DO NOT PLACE
+1,,,,PINHD-1X5,JP1,MANUAL PLACE
 1,Panasonic,DB2X41500L,https://octopart.com/db2x41500l-panasonic-44401435?r=sp&s=9Qtp1ut9Q1Sov_YvCgGkPA,SCHOTTKY,D1,
 1,Samsung,CL21B103KBANNNC,https://octopart.com/cl21b103kbannnc-samsung-8283151,CAPACITOR_0805,CB,10nF
 3,Murata,GRM21BR61E106KA73L,https://octopart.com/grm21br61e106ka73l-murata-11231261,CAPACITOR_0805,CIN1 CIN2 CMCU,10uF
